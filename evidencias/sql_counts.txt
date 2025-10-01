@@ -1,0 +1,17 @@
+Tabela                                                                                                                           Registros           
+-------------------------------------------------------------------------------------------------------------------------------- --------------------
+CIDADE                                                                                                                                              5
+DADOS_LORA                                                                                                                                          5
+DADOS_RFID                                                                                                                                          5
+DEFEITO_MOTOCICLETA                                                                                                                                 5
+ESTADO                                                                                                                                              5
+HISTORICO_MOVIMENTACAO_MOTOCICLETA                                                                                                                  0
+LEITOR_RFID                                                                                                                                         5
+LOG_AUDITORIA_MOTOCICLETA                                                                                                                           0
+MANUTENCAO_MOTOCICLETA                                                                                                                              2
+MOTOCICLETA                                                                                                                                         5
+RELACAO_MOTOCICLETA_DEFEITO                                                                                                                         5
+SETOR_DA_UNIDADE                                                                                                                                    5
+UNIDADE_FISICA                                                                                                                                      5
+
+(13 rows affected)

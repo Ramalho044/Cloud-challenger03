@@ -1,0 +1,9 @@
+IDENTIFICADOR_MOTOCICLETA MODELO_MOTOCICLETA                                                                                   PLACA_MOTOCICLETA    STATUS_MOTOCICLETA   DATA_CADASTRO_MOTOCICLETA              DATA_ATUALIZACAO_MOTOCICLETA           IDENTIFICADOR_SETOR
+------------------------- ---------------------------------------------------------------------------------------------------- -------------------- -------------------- -------------------------------------- -------------------------------------- -------------------
+                        1 CG 160 Fan                                                                                           AAA1A11              Ativa                           2025-10-01 16:28:02.9302281                                   NULL                   1
+                        2 YBR 125                                                                                              BBB2B22              Manutenção                      2025-10-01 16:28:02.9302281                                   NULL                   2
+                        3 Bros 160                                                                                             CCC3C33              Ativa                           2025-10-01 16:28:02.9302281                                   NULL                   3
+                        4 Factor 150                                                                                           DDD4D44              Roubada                         2025-10-01 16:28:02.9302281                                   NULL                   4
+                        5 Pop 110i                                                                                             EEE5E55              Manutenção                      2025-10-01 16:28:02.9302281                                   NULL                   5
+
+(5 rows affected)

@@ -1,0 +1,20 @@
+name                                                                                                                             type_desc                                                   
+-------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------
+CIDADE                                                                                                                           USER_TABLE                                                  
+DADOS_LORA                                                                                                                       USER_TABLE                                                  
+DADOS_RFID                                                                                                                       USER_TABLE                                                  
+DEFEITO_MOTOCICLETA                                                                                                              USER_TABLE                                                  
+ESTADO                                                                                                                           USER_TABLE                                                  
+HISTORICO_MOVIMENTACAO_MOTOCICLETA                                                                                               USER_TABLE                                                  
+LEITOR_RFID                                                                                                                      USER_TABLE                                                  
+LOG_AUDITORIA_MOTOCICLETA                                                                                                        USER_TABLE                                                  
+MANUTENCAO_MOTOCICLETA                                                                                                           USER_TABLE                                                  
+MOTOCICLETA                                                                                                                      USER_TABLE                                                  
+RELACAO_MOTOCICLETA_DEFEITO                                                                                                      USER_TABLE                                                  
+SETOR_DA_UNIDADE                                                                                                                 USER_TABLE                                                  
+UNIDADE_FISICA                                                                                                                   USER_TABLE                                                  
+database_firewall_rules                                                                                                          VIEW                                                        
+VW_HIST_MOV_MOTOCICLETA_RESUMO                                                                                                   VIEW                                                        
+VW_MOTOCICLETA_DEFEITOS_ATIVOS                                                                                                   VIEW                                                        
+
+(16 rows affected)
