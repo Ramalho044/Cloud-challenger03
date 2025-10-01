@@ -1,6 +1,9 @@
  ☁️ Cloud Challenger 03 — Entrega Final (LorArch)
 
-> **Aluno:** Marcos Ramalho (Ramalho044)  
+> **Aluno:** Gabriel Lima Silva - RM 556773 
+Cauã Marcelo Da Silva Machado - RM 558024 
+Marcos Ramalho - RM 554611 
+
 > **Região Azure:** Brazil South  
 > **RG:** `rg-LorArch`  
 > **Data da Entrega:** 2025-10-01
