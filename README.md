@@ -230,5 +230,3 @@ Deploy no ACI com FQDN público e testes de saúde
 
 Evidências versionadas em evidencias/
 
-    README reprodutível e estruturado (este documento)
-
